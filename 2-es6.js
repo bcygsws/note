@@ -1,2 +1,2 @@
-let c = 6;
+let c = 16;
 console.log(c);
