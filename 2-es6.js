@@ -1,2 +1,2 @@
-let b = 6;
-console.log(b);
+let c = 6;
+console.log(c);
